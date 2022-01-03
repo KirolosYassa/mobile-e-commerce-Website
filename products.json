@@ -1,73 +1,14 @@
-[{
-        "product_name": "Samsung Galaxy S10",
-        "image": "https: //www.google.com/imgres?imgurl=https%3A%2F%2Ffdn2.gsmarena.com%2Fvv%2Fpics%2Fsamsung%2Fsamsung-galaxy-s10-1.jpg&imgrefurl=https%3A%2F%2Fwww.bsssem.com%2F%25D9%2587%25D8%25A7%25D8%25AA%25D9%2581-samsung-s10&tbnid=66ZJwpFbBeA33M&vet=12ahUKEwi_naaJ5pD1AhVM9hoKHRTaBXYQMygCegUIARC7AQ..i&docid=rDGH420XK3dssM&w=710&h=645&itg=1&q=Galaxy%20S10&ved=2ahUKEwi_naaJ5pD1AhVM9hoKHRTaBXYQMygCegUIARC7AQ ",
-        "price": "3000",
-        "description": "3 colours black,blue and white it has a 20mp cam,128GB/512GB storage, supports 5G,"
-    },
-    {
-        "product_name ": "Samsung Galaxy M11 ",
-        "image": "https: //www.google.com/imgres?imgurl=https%3A%2F%2Fmobizil.com%2Fwp-content%2Fuploads%2F2020%2F04%2FSamsung-Galaxy-M11-Colors.jpg&imgrefurl=https%3A%2F%2Fmobizil.com%2Fsamsung-galaxy-m11-specs%2F&tbnid=PktvdTqkmRPziM&vet=12ahUKEwjhgYPDm5H1AhXWwYUKHXqrBnMQMygBegUIARCtAQ..i&docid=SSCZKuqYLTgWqM&w=544&h=396&itg=1&q=M11&ved=2ahUKEwjhgYPDm5H1AhXWwYUKHXqrBnMQMygBegUIARCtAQ ",
-        "price": "5000",
-        "description": "2 colours black and white it has a 13mp cam ,128GB/512GB storage, supports 4G"
-    },
-    {
-        "product_name ": "Samsung Galaxy J4 ",
-        "image": "https: //www.google.com/imgres?imgurl=https%3A%2F%2Fmobizil.com%2Fwp-content%2Fuploads%2F2018%2F05%2Fsamsung-j4.jpg&imgrefurl=https%3A%2F%2Fmobizil.com%2Fsamsung-galaxy-j4-specs%2F&tbnid=CBZi2O5bb83qWM&vet=12ahUKEwiUuKLQm5H1AhUx5IUKHT92DM8QMygBegQIARB9..i&docid=2b9QwGNQcHmbVM&w=518&h=532&itg=1&q=J4&ved=2ahUKEwiUuKLQm5H1AhUx5IUKHT92DM8QMygBegQIARB9 ",
-        "price": "2500",
-        "description": "3 colours gray,blue and white it has a 13mp ,128GB/512GB storage, supports 5G"
-    },
-    {
-        "product_name ": "Samsung Galaxy Note 9 ",
-        "image": "https: //www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F81vB-Irbk9L._AC_SL1500_.jpg&imgrefurl=https%3A%2F%2Fwww.bsssem.com%2F%25D8%25AC%25D9%2588%25D8%25A7%25D9%2584-%25D8%25B3%25D8%25A7%25D9%2585%25D8%25B3%25D9%2588%25D9%2586%25D8%25AC-%25D9%2586%25D9%2588%25D8%25AA-9&tbnid=GkQOwWbASIU7wM&vet=12ahUKEwjk6Kfsm5H1AhWQ_4UKHfPsCGEQMygCegUIARCtAQ..i&docid=INFo2xBpdawszM&w=1195&h=1500&itg=1&q=Note%209&ved=2ahUKEwjk6Kfsm5H1AhWQ_4UKHfPsCGEQMygCegUIARCtAQ ",
-        "price": "3500",
-        "description": "2 colours blue and white it has a 12mp cam ,32GB/64GB/128GB/512GB storage, supports 4G"
-    },
-    {
-        "product_name ": "Samsung Galaxy J6 ",
-        "image": "https: //www.google.com/imgres?imgurl=https%3A%2F%2Fmobizil.com%2Fwp-content%2Fuploads%2F2018%2F05%2Fsamsung-galaxy-j6.jpg&imgrefurl=https%3A%2F%2Fmobizil.com%2Fsamsung-galaxy-j6-specs%2F&tbnid=Eb2iXIcRrVOYoM&vet=12ahUKEwi9nZucnJH1AhUTMRoKHRS9ACQQMygEegUIARCCAQ..i&docid=yWJdxBZ9_n59pM&w=389&h=400&itg=1&q=J6&ved=2ahUKEwi9nZucnJH1AhUTMRoKHRS9ACQQMygEegUIARCCAQ ",
-        "price": "3250",
-        "description": "2 colours blue and white it has a 15mp cam ,64GB/128GB/512GB storage, supports 5G"
-    },
-    {
-        "product_name ": "Samsung Galaxy J6 plus ",
-        "image": "https: //www.google.com/imgres?imgurl=https%3A%2F%2Fmobizil.com%2Fwp-content%2Fuploads%2F2018%2F10%2Fsamsung-j6-plus-colors.jpg&imgrefurl=https%3A%2F%2Fmobizil.com%2Fsamsung-j6-plus-specs%2F&tbnid=ozTCswcOKeBOaM&vet=12ahUKEwjhoO2ynJH1AhVSQRoKHXNeCNAQMygCegUIARC2AQ..i&docid=5I8lk4PwY8ggJM&w=497&h=325&itg=1&q=J6%20plus&ved=2ahUKEwjhoO2ynJH1AhVSQRoKHXNeCNAQMygCegUIARC2AQ ",
-        "price": "4000",
-        "description": "2 colours  red and white it has a 20mp cam ,128GB/512GB storage, supports 5G"
-    },
-    {
-        "product_name ": "Samsung Galaxy A30s ",
-        "image": "https: //www.google.com/imgres?imgurl=https%3A%2F%2Fmobizil.com%2Fwp-content%2Fuploads%2F2019%2F08%2FSamsung-Galaxy-A30s-Colors.jpg&imgrefurl=https%3A%2F%2Fmobizil.com%2Fsamsung-galaxy-a30s-specs%2F&tbnid=19T9Y-3O5PgigM&vet=12ahUKEwiv5sPLnJH1AhXGwIUKHey9BOkQMygEegUIARC4AQ..i&docid=CNnRleGC9Y_MQM&w=544&h=396&itg=1&q=A30s&ved=2ahUKEwiv5sPLnJH1AhXGwIUKHey9BOkQMygEegUIARC4AQ ",
-        "price": "4500",
-        "description": "2 colours blue and white it has a 22mp cam ,128GB/512GB storage, supports 4G"
-    },
-    {
-        "product_name ": "Samsung Galaxy S8 ",
-        "image": "https: //www.google.com/imgres?imgurl=https%3A%2F%2Fwww.manjood.com%2Fimages%2Fsamsung-galaxy-s8-.jpg&imgrefurl=https%3A%2F%2Fwww.manjood.com%2Fsamsung-s8%2F86&tbnid=YIAiB3KoeDpJFM&vet=12ahUKEwi8p6XcnJH1AhUEGRoKHQvqAvAQMygCegQIARB8..i&docid=XfHfd0wtzY4CJM&w=160&h=212&itg=1&q=S8&ved=2ahUKEwi8p6XcnJH1AhUEGRoKHQvqAvAQMygCegQIARB8 ",
-        "price": "2750",
-        "description": "3 colours black, blue and white it has a 14 mp cam, 32 GB / 64 GB / 128 GB / 512 GB storage, supports 5 G "
-    },
-    {
-        "product_name ": "Samsung Galaxy a51 ",
-        "image": "https: //www.google.com/imgres?imgurl=https%3A%2F%2Fcdn11.bigcommerce.com%2Fs-ss31ap%2Fimages%2Fstencil%2F1280x1280%2Fproducts%2F7676%2F36444%2F719CUSPTsgL._AC_SL1500___16886.1610546780.1280.1280__29586__99952.1630556117.jpg%3Fc%3D2&imgrefurl=https%3A%2F%2Fsa-fusionelectronix.glopalstore.com%2Fsamsung-galaxy-a51-128gb-6gb-ram-sm-a515f-dsn-dual-sim-factory-unlocked%2F&tbnid=VyNszrVwoK0vMM&vet=12ahUKEwj9lbPunJH1AhXL3YUKHcjpAQEQMygBegUIARC0AQ..i&docid=KUrA0IYg8r2cBM&w=1104&h=1280&itg=1&q=a51&ved=2ahUKEwj9lbPunJH1AhXL3YUKHcjpAQEQMygBegUIARC0AQ",
-        "price": "3350",
-        "description ": "2 colours gray and white it has a 15mp cam ,64GB/128GB/512GB storage, supports 5G"
-    },
-    {
-        "product_name ": "Samsung Galaxy a71 ",
-        "image": "https: //www.google.com/imgres?imgurl=https%3A%2F%2Fcdn11.bigcommerce.com%2Fs-ss31ap%2Fimages%2Fstencil%2F1280x1280%2Fproducts%2F7674%2F36437%2Fs-l1600__24248.1606010989.1280.1280__86126__33197.1630556111.jpg%3Fc%3D2&imgrefurl=https%3A%2F%2Fsa-fusionelectronix.glopalstore.com%2Fsamsung-galaxy-a71-sm-a715f-ds-128gb-8gb-ram-4g-lte-unlocked%2F&tbnid=1XtdHWjr_7MePM&vet=12ahUKEwi1kZelnZH1AhUE-BoKHWbYACsQMygAegUIARCzAQ..i&docid=Mbab4iHRpV8v2M&w=1280&h=1280&itg=1&q=a71&ved=2ahUKEwi1kZelnZH1AhUE-BoKHWbYACsQMygAegUIARCzAQ",
-        "price": "5000",
-        "description": "3 colours black,blue and white it has a 16mp cam ,64GB/128GB/512GB storage, supports 4G"
-    },
-    {
-        "product_name ": "Samsung Galaxy S21 ",
-        "image": "https: //www.google.com/imgres?imgurl=https%3A%2F%2Fimages.samsung.com%2Fis%2Fimage%2Fsamsung%2Fp6pim%2Feg%2Fgalaxy-s21%2Fgallery%2Feg-galaxy-s21-5g-g991-sm-g991bzadmea-368339910%3F%24720_576_PNG%24&imgrefurl=https%3A%2F%2Fwww.samsung.com%2Feg%2Fsmartphones%2Fgalaxy-s%2Fgalaxy-s21-5g-phantomgray-128gb-sm-g991bzadmea%2Fbuy%2F&tbnid=Dr6v43YpgMJWtM&vet=12ahUKEwiP0J-YnZH1AhVJ-YUKHex8Du8QMygDegUIARC0AQ..i&docid=3ztvib5-lfyaMM&w=720&h=576&itg=1&q=S21&ved=2ahUKEwiP0J-YnZH1AhVJ-YUKHex8Du8QMygDegUIARC0AQ ",
-        "price": "5500",
-        "description": "2 colours black and white it has a 14mp cam ,128GB/512GB storage, supports 5G"
-    },
-    {
-        "product_name ": "Samsung Galaxy A11 ",
-        "image": "https: //www.google.com/imgres?imgurl=https%3A%2F%2Faramobi.com%2Fwp-content%2Fuploads%2F2020%2F03%2Fa11-288x300.jpg&imgrefurl=https%3A%2F%2Faramobi.com%2Fproduct%2Fsamsung-galaxy-a11%2F&tbnid=TzqE7PNw6LbREM&vet=12ahUKEwjMyf6KnZH1AhURw4UKHTAxAnsQMygCegUIARC2AQ..i&docid=VWepNavLKUd_3M&w=288&h=300&itg=1&q=a11&ved=2ahUKEwjMyf6KnZH1AhURw4UKHTAxAnsQMygCegUIARC2AQ ",
-        "price": "4500",
-        "description": "phone is blue and white it has a 15mp cam ,64GB/128GB/512GB storage, supports 5G"
-    }
+[
+        {“product_name”:”Samsung Galaxy S10”,”image”:” 1.jpeg”,”price”:”3000”,”description”:”3 colours black,blue and white it has a 20mp cam,128GB/512GB storage, supports 5G”},
+        {“product_name”:”Samsung Galaxy J4”,”image”:” 2.jpeg”,”price”:”2500”,”description”:”3 colours gray,blue and white it has a 13mp ,128GB/512GB storage, supports 5G”},
+        {“product_name”:”apple iphone 13”,”image”:”3.jpeg”,”price”:”15000”,”description”:”4 colours black,red,grey and white it has a 15mp cam ,128GB/512GB storage, supports 5G”},
+        {“product_name”:”apple iphone 13 pro”,”image”:”4.jpeg ”,”price”:”20000”,”description”:”4 colours black,gold,grey and white it has a 15mp cam ,128GB/512GB storage, supports 5G”},
+        {“product_name”:”apple iphone X”,”image”:” 5.jpeg”,”price”:”12000”,”description”:”3 colours black,grey and white it has a 13mp cam ,128GB/512GB storage, supports 4G”},
+        {“product_name”:”Huawei Nova 7i”,”image”:”6.jpeg”,”price”:”9000”,”description”:”2 colours  red and green it has a 16mp cam ,128GB storage, supports 5G”},
+        {“product_name”:”Huawei Y9 Prime”,”image”:”7.jpeg”,”price”:”4500”,”description”:”2 colour blue and black  it has a 12mp cam ,128GB storage, supports 4G”},
+        {“product_name”:”Lenovo K12 Note”,”image”:”8.jpeg”price”:”2750”,”description”:”3 colours  black,blue and white it has a 14mp cam ,32GB/64GB/128 storage, supports 5G”},
+        {“product_name”:” lenovo Z6 Pro”,”image”:”9.jpeg”:”2 colours red and black it has a 15mp cam ,64GB/128GB/512GB storage, supports 5G”},
+        {“product_name”:”Samsung Galaxy a71”,”image”:”10.jpeg”,”colours black,blue and white it has a 16mp cam ,64GB/128GB/512GB storage, supports 4G”},
+        {“product_name”:”Samsung Galaxy S21”,”image”:”11.jpeg”,”price”:”5500”,”description”:”2 colours black and white it has a 14mp cam ,128GB/512GB storage, supports 5G”},
+        {“product_name”:”Samsung Galaxy A11”,”image”:”12.jpeg”,”price”:”4500”,”description”:”phone is blue and white it has a 15mp cam ,64GB/128GB/512GB storage, supports 5G”}
 ]
