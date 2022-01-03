@@ -20,6 +20,22 @@ app.get("/", (req,res)=>{
     res.sendFile(__dirname + "/index.html")
 })
 
+app.get("/index.html", (req,res)=>{
+    res.sendFile(__dirname + "/index.html")
+})
+
+app.get("/home.html", (req,res)=>{
+    res.sendFile(__dirname + "/home.html")
+})
+
+app.get("/register.html", (req,res)=>{
+    res.sendFile(__dirname + "/register.html")
+})
+
+app.get("/contact.html", (req,res)=>{
+    res.sendFile(__dirname + "/contact.html")
+})
+
 
 // app.post("/success.html", (req,res)=>{
 //     res.sendFile(__dirname + "/index.html")
